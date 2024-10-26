@@ -1,0 +1,27 @@
+#faq-status  .elementor-accordion .elementor-tab-title{border-bottom: 2px solid #fff;}
+
+#faq-status  .elementor-accordion .elementor-tab-title.elementor-active{border-bottom:0px}
+
+.elementor-10 .elementor-element.elementor-element-99c0476 .elementor-icon-box-title, .elementor-10 .elementor-element.elementor-element-99c0476 .elementor-icon-box-title a {
+    margin-top: 15px;
+}
+
+.elementor-10 .elementor-element.elementor-element-a6befa6 .elementor-icon-box-title, .elementor-10 .elementor-element.elementor-element-a6befa6 .elementor-icon-box-title a {
+   
+    margin-top: 15px;
+}
+
+.elementor-10 .elementor-element.elementor-element-d1e3f8c .elementor-icon-box-title, .elementor-10 .elementor-element.elementor-element-d1e3f8c .elementor-icon-box-title a {
+   
+    margin-top: 15px;
+}
+
+ .desktop-header.sticky{
+        position: fixed;
+        top: 0px;
+        width: 100%;
+        max-width: 100%;
+        opacity: 1;
+        visibility: visible;
+        z-index: 99;
+    }
